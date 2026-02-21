@@ -1,4 +1,7 @@
+HD
 text updating on master branch
 
 This is a sample text file, text is ok, file updating
 some new code changes updates
+file update on new branch
+New_branch2
